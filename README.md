@@ -13,7 +13,8 @@ Extract game information from quackle game files for scrabble visualization and 
   xx <- game(x)
   game_board(xx)
 `
-   A B C D E F G H I J K L M N O
+`
+A B C D E F G H I J K L M N O
 1      S E N D   Q              
 2    O M         U              
 3    F A W       A   P E R C    
@@ -29,7 +30,7 @@ Extract game information from quackle game files for scrabble visualization and 
 13     O B               R      
 14     D     I G N E O U S      
 15       A N T I A R S     
-
+`
 
 
 
