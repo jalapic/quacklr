@@ -9,6 +9,8 @@ Extract game information from quackle game files for scrabble visualization and 
 
 ### Quick Example
 
+A game between Phil Robertshaw and Austin Shin.
+
 ```
 x <- game_file(27222)
   
@@ -33,6 +35,7 @@ __________________________
 
 You can also create gifs!
 
+A game between Nigel Richards and David Eldar.
   
 
 ![](https://github.com/jalapic/quacklr/blob/master/img/test.gif)
