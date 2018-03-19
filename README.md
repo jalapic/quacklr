@@ -9,14 +9,14 @@ Extract game information from quackle game files for scrabble visualization and 
 
 ### Quick Example
 
-` 
+```
 x <- game_file(27222)
   
 xx <- game(x)
   
 game_board(xx)
 
-`
+```
   
 
   
