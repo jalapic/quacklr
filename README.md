@@ -2,6 +2,9 @@
 
 Extract game information from quackle game files for scrabble visualization and analysis.
 
+Longer vignette readable [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalapic/quacklr/master/misc/intro_vignette.html).  
+
+
 ### Install
 
 `devtools::install_github("jalapic/quacklr")`
