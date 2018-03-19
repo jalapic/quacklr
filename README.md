@@ -13,22 +13,22 @@ Extract game information from quackle game files for scrabble visualization and 
   xx <- game(x)
   game_board(xx)
 `
-\  
+  
 
-\  
+  
 
 
 ![](https://github.com/jalapic/quacklr/blob/master/img/game.png)
 
-\  
+  
 
-\  
+  
 
 
 
 
 You can also create gifs!
 
-\  
+  
 
 ![](https://github.com/jalapic/quacklr/blob/master/img/test.gif)
