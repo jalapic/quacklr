@@ -29,7 +29,20 @@ game_board(xx)
 
 ![](https://github.com/jalapic/quacklr/blob/master/img/game.png)
 
-  
+    
+     
+         
+         
+_________________________
+
+
+You can create prettier boards too:
+
+![](https://github.com/jalapic/quacklr/blob/master/img/board1.png)
+
+     
+         
+         
 
   
 __________________________
